@@ -1,0 +1,72 @@
+﻿{
+  "configurations": [
+    {      
+      "output": true,
+      "baseFolder": ".\\",
+      "items": [
+	  
+        {
+          "map": "Raw\\MillCreek2021_Orange_0604.pdf",
+          "out": "Processed\\MillCreek2021_Orange_0604.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\7500.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+        {
+          "map": "Raw\\MillCreek2021_RedLong_0604.pdf",
+          "out": "Processed\\MillCreek2021_RedLong_0604.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\7500.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+        {
+          "map": "Raw\\MillCreek2021_RedShort_0604.pdf",
+          "out": "Processed\\MillCreek2021_RedShort_0604.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\7500.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+        {
+          "map": "Raw\\MillCreek2021_Yellow_0604.pdf",
+          "out": "Processed\\MillCreek2021_Yellow_0604.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\5000.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+        {
+          "map": "Raw\\MillCreek2021_White_0604.pdf",
+          "out": "Processed\\MillCreek2021_White_0604.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\5000.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+		
+      ]
+    }
+  ]
+}
